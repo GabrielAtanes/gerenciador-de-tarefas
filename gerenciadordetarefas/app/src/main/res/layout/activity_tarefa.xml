@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textTaskFlowTarefa"
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:text="TaskFlow"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <TextView
+            android:id="@+id/textNovaTarefa"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Nova Tarefa"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+
+        <TextView
+            android:id="@+id/textTituloTarefa"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:text="Digite o título da sua tarefa:"
+            android:textColor="@color/white"
+            android:textSize="23sp" />
+
+        <EditText
+            android:id="@+id/editTituloTarefa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:ems="10"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <TextView
+            android:id="@+id/textDescricaoTarefa"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:text="Descrição da sua tarefa:"
+            android:textColor="@color/white"
+            android:textSize="23sp" />
+
+        <EditText
+            android:id="@+id/editDescricaoTarefa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:ems="10"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="70dp" />
+
+        <Button
+            android:id="@+id/btConfirmaTarefa"
+            android:layout_width="312dp"
+            android:layout_height="73dp"
+            android:layout_gravity="center"
+            android:text="CONFIRMA"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
