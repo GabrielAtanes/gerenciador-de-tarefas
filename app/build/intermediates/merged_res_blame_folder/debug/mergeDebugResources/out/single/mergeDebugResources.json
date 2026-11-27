@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\layout_activity_pendentes.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\layout\\activity_pendentes.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\layout_layout_card.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\layout\\layout_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\drawable_fundo_card.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\drawable\\fundo_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\drawable\\logo.png"
+    },
+    {
+        "merged": "com.example.gerenciador_de_tarefas.app-debug-39:/drawable_fundo_nova_tarefa.xml.flat",
+        "source": "com.example.gerenciador_de_tarefas.app-main-41:/drawable/fundo_nova_tarefa.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\drawable_fundotarefas.png.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\drawable\\fundotarefas.png"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\layout_activity_inicializacao.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\layout\\activity_inicializacao.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\layout_activity_concluidas.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\layout\\activity_concluidas.xml"
+    },
+    {
+        "merged": "com.example.gerenciador_de_tarefas.app-debug-39:/layout_activity_tarefa.xml.flat",
+        "source": "com.example.gerenciador_de_tarefas.app-main-41:/layout/activity_tarefa.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\layout_activity_tarefa.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\layout\\activity_tarefa.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-debug-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\9.5.0\\com.example.gerenciador_de_tarefas.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]
